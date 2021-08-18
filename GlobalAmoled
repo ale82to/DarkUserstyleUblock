@@ -1,4 +1,4 @@
-! Title: Loading.se Dark UserStyle
+! Title: Global Amoled Dark UserStyle
 *##*:style(font-size:inherit!important;line-height:1.2!important)
 *##html:style(font-size:26.5px!important;-webkit-text-stroke-width:.3px!important;text-indent:0!important;color:#f0f!important;background-color:#000!important)
 *##button:style(font-size:19px!important)
