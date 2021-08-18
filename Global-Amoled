@@ -7,7 +7,7 @@
 
 ! The CSS files from that extension can also be used in an ordinary UserStyle manager.
 
-ciao##*:style(font-size:inherit!important;line-height:1.2!important)
+ciao.*##*:style(font-size:inherit!important;line-height:1.2!important)
 *##html:style(font-size:26.5px!important;-webkit-text-stroke-width:.3px!important;text-indent:0!important;color:#f0f!important;background-color:#000!important)
 *##button:style(font-size:19px!important)
 *##div,aside:style(background-color:transparent!important)
