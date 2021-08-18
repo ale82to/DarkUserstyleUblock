@@ -1,10 +1,10 @@
 ! Title: GlobalAmoled
 ! Expires: 7 days (update frequency)
-! Homepage: https://github.com/ale82to/UserStyle
-! Description: uBlock Origin version of https://github.com/lassekongo83/yt-classic-polymer
-! This style is for uBlock Origin and is only made for 1920x1080 screen sizes. uBO do not support media queries.
+! Homepage: https://github.com/ale82to/DarkUserstyleUblock/
+! Description: Global Amoled theme
 
-! The extension have more options: https://github.com/lassekongo83/yt-classic-polymer
+
+
 ! The CSS files from that extension can also be used in an ordinary UserStyle manager.
 
 *##*:style(font-size:inherit!important;line-height:1.2!important)
